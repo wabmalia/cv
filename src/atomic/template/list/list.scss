@@ -1,0 +1,10 @@
+@import "../../../vars.scss";
+
+ul.cv-list {
+    list-style-position: inside;
+    padding-left: 0;
+    margin: 4px 0;
+    li {
+        color: $lightgrey;
+    }
+}

@@ -1,0 +1,15 @@
+.cv-language {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  > .cv-language-rate {
+    display: grid;
+    column-gap: 2px;
+    grid-auto-flow: column;
+    align-content: center;
+
+    > div {
+      height: 24px;
+    }
+  }
+}

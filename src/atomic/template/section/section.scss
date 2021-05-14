@@ -1,0 +1,15 @@
+@import "../../../vars.scss";
+
+.cv-section {
+    h2 {
+        color: $heading-color;
+        border-bottom: 4px solid $heading-color;
+        margin-bottom: 8px;
+        font-weight: 600;
+    }
+
+    .cv-event:not(:last-child) {
+        margin: 16px 0;
+        border-bottom: 2px dashed $heading-color;
+    }
+}

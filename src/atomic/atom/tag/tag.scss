@@ -1,0 +1,15 @@
+@import "../../../vars.scss";
+
+div.cv-tag-group {
+    display: flex;
+    flex-flow: wrap;
+    
+    span.cv-tag {
+        margin: 4px;
+    }
+}
+span.cv-tag {
+    border-radius: 8px;
+    border: 1px solid rgba($color: $text-color, $alpha: 0.5);
+    padding: 4px 6px;
+}
