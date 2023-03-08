@@ -4,6 +4,7 @@ import { Tag, TagGroup } from "../atom/tag/tag"
 const Skills = () => (
     <Section title="Skills">
         <TagGroup>
+            <Tag>React</Tag>
             <Tag>Java EE</Tag>
             <Tag>Maven</Tag>
             <Tag>SQL</Tag>

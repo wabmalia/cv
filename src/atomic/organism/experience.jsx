@@ -20,13 +20,14 @@ const Experience = () => (
                 <Item>Pair programming</Item>
             </List>
             <TagGroup>
-                <Tag>AWS Cloudformation</Tag>
+                <Tag>AWS</Tag>
                 <Tag>Clojure</Tag>
                 <Tag>Elixir</Tag>
                 <Tag>Kotlin</Tag>
                 <Tag>Node</Tag>
                 <Tag>React</Tag>
                 <Tag>TDD (Test driven development)</Tag>
+                <Tag>User centric development</Tag>
                 <Tag>XP (Extreme programming)</Tag>
             </TagGroup>
         </Event>
